@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "608817800761",
+    "project_id": "bcplant-e1546",
+    "storage_bucket": "bcplant-e1546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608817800761:android:a0c604686bf4543bc34fe8",
+        "android_client_info": {
+          "package_name": "com.mycompany.bctest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608817800761-pjpsrj4kpmblkhusjfprhl43lkfqf4f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bctest",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "608817800761-65tcphv6u8kd7ufev8vgp5j8huc8bfq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHkEQOxyhotdaloCHeNnHSTkomVRSDRcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608817800761-65tcphv6u8kd7ufev8vgp5j8huc8bfq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608817800761-7s6qogmh90qsmbfs7k3a2nm7mhq4l1v3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bctest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
